@@ -1,0 +1,8 @@
+info:
+ application:
+  name : Springboot - Actuator
+  description : Springboot actuator
+  version : 1.0
+ technology:
+  java : opendjdk 21
+  springboot : 3.4.4
